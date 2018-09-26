@@ -1,4 +1,4 @@
-# erlang
+# Erlang
 
 最开始会先学习各种库 (Erlang当中称为模块). 大多数程序中会用到5个模块: lists, io, file, dict, gen_tcp. 而且, 会频繁的进行使用.
 
